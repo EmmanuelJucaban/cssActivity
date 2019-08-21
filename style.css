@@ -1,0 +1,30 @@
+.content{
+   display:table; 
+   width: 100%;
+   clear:both; 
+}
+
+.box1{
+    height: 200px; 
+    width: 80%; 
+    background-color: peru;
+    float: left; 
+}
+.box2{
+    height: 200px; 
+    width: 20%; 
+    background-color: yellow;
+    float: left;  
+}
+.box3{
+    height: 200px; 
+    width: 60%; 
+    background-color: cyan;
+    float: left;  
+}
+.box4{
+    height: 200px; 
+    width: 40%; 
+    background-color: tan;
+    float: left;  
+}
